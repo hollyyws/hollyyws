@@ -1,4 +1,4 @@
-![imagem].(https://github.com/hollyyws/hollyyws/blob/main/f5edab2497aff2a7868cf8e2d1a2c367.gif)
+![imagem](https://github.com/hollyyws/hollyyws/blob/main/f5edab2497aff2a7868cf8e2d1a2c367.gif)
 
 <!--
 **hollyyws/hollyyws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
